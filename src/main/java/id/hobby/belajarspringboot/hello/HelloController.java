@@ -1,4 +1,4 @@
-package id.hobby.belajarspringboot;
+package id.hobby.belajarspringboot.hello;
 
 import org.springframework.stereotype.Component;
 
