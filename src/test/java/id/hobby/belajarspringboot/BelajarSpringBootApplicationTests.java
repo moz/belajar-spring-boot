@@ -11,6 +11,7 @@ public class BelajarSpringBootApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
